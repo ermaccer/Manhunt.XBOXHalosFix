@@ -15,3 +15,5 @@ You can install .IPS patch to your executable using [Lunar IPS](https://fusoya.e
 and change to:
 
 `81 C4 04 00 00 00 E8 A5 9A 0A 00 81 C4 20 01 00 00 6A 00 6A 01 E8 D6 D0 FF FF 58 58 C3 90 90 90`
+
+[YouTube Video](https://www.youtube.com/watch?v=S3HTgMWLGmI)
