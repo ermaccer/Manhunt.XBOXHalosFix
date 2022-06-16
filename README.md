@@ -7,7 +7,7 @@ is the same as on PC so the fix can be ported without any problems.
 
 # How to use (IPS Patch)
 
-You can install .IPS patch to your executable using [Lunar IPS](https://fusoya.eludevisibility.org/lips/)
+You can install .IPS patch to your executable (default.xbe) using [Lunar IPS](https://fusoya.eludevisibility.org/lips/)
 
 **mh_halosfix_pal.ips** - European version
 
